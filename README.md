@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Arduino and python
 - 💞️ I’m looking to collaborate on ... Electronics and Arduino
 - 📫 How to reach me ... pranavmahadevn@gmail.com
-- Join my space on Quora : Mechatronics, Electronics and Arduino
+- Join my space on Quora : https://arduinorobotics.quora.com
 
 <!---
 Mecahtronics/Mecahtronics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
